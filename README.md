@@ -8,3 +8,6 @@ In the previous year, the Chief Information Security Officer reported the social
 This analysis report demonstrates and analyzes the risk to The Boutique Hospital due to the regular Phishing and Social Engineering attacks. This document is built with minimal technical specifications to match the readability capacity of the executives in the organization.<br />
 
 In this Risk Assessment Report, I use the FAIR-U tool, created by RiskLens. FAIR-U uses the Factor Analysis of Information Risk framework to generate visualization of the Risk Exposure and potential loss in the report. The FAIR-U tool also analyzes the vulnerability percent and summarizes the primary and secondary losses expected if the vulnerabilities are not mitigated. 
+
+<h2>Screenshot of the Report</h2>
+<img src="https://i.imgur.com/xBe5lZg.png" />
